@@ -1,5 +1,5 @@
 def main_func():
     return "hello"
 
-def dev():
+def develop():
     return "bye"
