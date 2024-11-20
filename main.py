@@ -1,5 +1,6 @@
 def main_func():
+    print(2+2)
     return "hello"
 
-def develop():
-    return "bye"
+def dev():
+    return "develop branch"
