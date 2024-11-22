@@ -3,5 +3,5 @@ def main_func():
     return "hello"
 
 def dev():
-    print("hello")
+    print("bye")
     return "develop branch"
